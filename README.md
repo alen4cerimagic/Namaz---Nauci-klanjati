@@ -1,4 +1,4 @@
-# Namaz - Nauci klanjati
+# Namaz - Nauci klanjati (Privacy Policy)
 "**Namaz - Nauci klanjati**" (the "App") values your privacy and is committed to protecting it. The App only uses Firebase Crashlytics and Firebase Events to improve the performance and user experience of the App. These tools collect and process certain information, including device information and usage data, to help us understand how the App is being used and identify any issues that may arise.
 
 The App does not collect or process any personal or sensitive information, such as your name, email address, or location. The App does not share any information with third parties, except as necessary to provide the App's services or as required by law.
